@@ -5,7 +5,7 @@
 }
 header
 {
-    background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)),url(images/Lagos.jpeg);
+    background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)),url(lagos.png);
     height: 100vh;
     background-position: center;
     background-size: cover;
